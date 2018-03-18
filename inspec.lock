@@ -1,0 +1,8 @@
+---
+lockfile_version: 1
+depends:
+- name: aws
+  resolved_source:
+    url: https://github.com/chef/inspec-aws/archive/master.tar.gz
+    sha256: b6d99c83f71708ce66f4745a04595e83535fe2fcf5a75bf70f95ab1caa0c1f3c
+  version_constraints: "[]"
